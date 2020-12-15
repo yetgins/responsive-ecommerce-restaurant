@@ -1,13 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import NavBar from './components/NavBar/NavBar';
 import { GlobalStyle } from './globalStyles';
+import Hero from './components/Hero/Hero';
 
 function App() {
   return (
     <Router>
       <GlobalStyle />
-     <NavBar />
+     <Hero />
     
     </Router>
     
