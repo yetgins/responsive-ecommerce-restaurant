@@ -15,6 +15,7 @@ function App() {
       <Products heading="Choose your favorite" data={productData} />
       <Feature />
       <Products heading='Sweat Treats for You' data={productDataTwo} />
+      <Footer />
     </Router>
   );
 }

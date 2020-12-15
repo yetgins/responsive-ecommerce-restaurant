@@ -1,5 +1,4 @@
 import React from "react";
-import { productData } from "./data";
 import {
   ProductsContainer,
   ProductsHeading,
